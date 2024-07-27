@@ -1,0 +1,27 @@
+*************************************************************************
+*                                                                       *
+*                                                                       *
+*                            Welcome                                    *
+*                                                                       *
+*                                                                       *
+*************************************************************************
+
+Hi, I am Jarrar but you can also call me Jarru 😊
+You know Web Development is best for creating websites like google, yahoo, microsoft etc. So in this Tutorial we will learn what is web development.
+
+A Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.
+
+Website developers use various programming languages, like HTML, CSS, and JavaScript, to develop websites and web applications. Keep Reading Learn More About Web Design and Development.
+
+HTML or Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. HTML was developed specifically to support linking among online resources. Compared with other digital formats used for primarily textual document-like content, the HTML format has been extended to support embedded audio and video and the development of interactive applications.
+
+CSS or Cascading Style Sheets is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. "CSS Solved a Big Problem!" Development of large websites, where fonts and color information were added to every single page, became a long and expensive process. To solve this problem, the World Wide Web Consortium (W3C) created CSS. CSS removed the style formatting from the HTML page!
+
+JavaScript, often abbreviated as JS, is a programming language and core technology of the Web, alongside HTML and CSS. 99% of websites use JavaScript on the client side for webpage behavior. Web browsers have a dedicated JavaScript engine that executes the client code. 'Brendan Eich' developed JavaScript, a computer language, in just ten days in May 1995. Initially called Mocha, then LiveScript, it finally became known as JavaScript. It was designed for the client-side of websites to add dynamic and interactive elements to static HTML pages.
+
+
+I hope you'll enjoy this tutorial.
+
+Youtube -> https://www.youtube.com/channel/UCru4yDL9HOkVWaDPf-1xISA
+
+Thankyou
